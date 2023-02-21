@@ -1561,6 +1561,11 @@
   dependencies:
     "function-bind" "^1.1.1"
 
+"helmet@^6.0.1":
+  "integrity" "sha512-8wo+VdQhTMVBMCITYZaGTbE4lvlthelPYSvoyNvk4RECTmrVjMerp9RfUOQXZWLvCcAn1pKj7ZRxK4lI9Alrcw=="
+  "resolved" "https://registry.npmjs.org/helmet/-/helmet-6.0.1.tgz"
+  "version" "6.0.1"
+
 "html-escaper@^2.0.0":
   "integrity" "sha512-H2iMtd0I4Mt5eYiapRdIDjp+XzelXQ0tFE4JS7YFwFevXXMmOp9myNrUvCg0D6ws8iqkRPBfKHgbwig1SmlLfg=="
   "resolved" "https://registry.npmjs.org/html-escaper/-/html-escaper-2.0.2.tgz"
