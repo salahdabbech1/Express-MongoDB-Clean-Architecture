@@ -11,7 +11,7 @@ const StartServer = async () => {
 
   await expressApp(app);
 
-  //errorHandler(app);
+  errorHandler(app);
 
   app
     .listen(PORT, () => {
